@@ -15,8 +15,8 @@ React Native / Expo · Next.js · Supabase · AI integrations
 
 ### Selected work
 
-Kvitka — Production React Native / Expo wellness app
-RocketForms AI — AI lead qualification & server-side tracking SaaS
-Digital Nest — AI-native product studio
+Kvitka - Production React Native / Expo wellness app
+RocketForms AI - AI lead qualification & server-side tracking SaaS
+Digital Nest - AI-native product studio
 
 Strategy first. Code second. Ownership always.
